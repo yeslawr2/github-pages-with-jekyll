@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Steven's blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I am going to talk about software development and the changes associated with the field. It is an ever-changing field and you have to always be ready to learn
